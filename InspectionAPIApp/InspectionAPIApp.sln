@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectionAPI", "InspectionAPI\InspectionAPI.csproj", "{AF4B8967-108A-4E20-A7BE-7FFD819A3245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4B8967-108A-4E20-A7BE-7FFD819A3245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4B8967-108A-4E20-A7BE-7FFD819A3245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4B8967-108A-4E20-A7BE-7FFD819A3245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4B8967-108A-4E20-A7BE-7FFD819A3245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C4DC54-A98B-4113-8F8B-42940960BC7D}
+	EndGlobalSection
+EndGlobal
